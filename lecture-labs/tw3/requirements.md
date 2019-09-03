@@ -18,4 +18,15 @@
   - Attach labels to photographs
   - Sort Photos by date, time, location, tags
   - Resize/Edit photos
-  
+
+
+	Second person questions/edits:
+
+	Who should be able to edit/resize photos, attach labels, store photos, etc?
+	Do all managers have security access to all of these things? Only certain managers?
+	What about ADMIN users?
+	Will there be a form of peer review/edit testing so that even admin users cannot just make ultimate changes/decisions?
+	Would a user be able to add a short descption (taken at location blah blah blah) or just the label (date, time, etc.)
+	Who is in charge of storing and keeping data clean within database? Database Team, Security, 3rd party vendor, etc.?
+	Do end users have access to all of what is published or only specific access?
+		- Subscribed users? Professional users? Bloggers? Regular users?
