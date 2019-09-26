@@ -9,6 +9,4 @@ def min_char_test(counter):
     else:
         return counter
 
-username = "Mary1"
-
-print ("Username is " + counter + " characters")
+    print ("Username is " + counter + " characters")
