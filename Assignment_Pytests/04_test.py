@@ -7,7 +7,4 @@ def calculate_x(arr):
     x = sum
     return x
 
-arr = [89, 75, 62, 99, 92]
-y = 5
-
 print ("Your grade is " + grade)
